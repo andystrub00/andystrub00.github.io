@@ -37720,8 +37720,8 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-social-icons-1 {
   height: 66px;
   min-height: 16px;
-  width: 294px;
-  min-width: 94px;
+  width: 370px;
+  min-width: 120px;
   margin: 23px auto 33px;
 }
 
@@ -37743,9 +37743,13 @@ a.u-link.u-text-hover-grey-90:hover {
   color: rgb(197, 54, 164) !important;
   height: 100%;
 }
+
+.u-footer .u-icon-5 {
+  height: 100%;
+}
 @media (max-width: 1199px) {
   .u-footer .u-social-icons-1 {
-    width: 294px;
+    width: 370px;
   }
 }
 
